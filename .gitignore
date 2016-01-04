@@ -1,0 +1,10 @@
+*\.aux
+*\.bbl
+*\.blg
+*\.dvi
+*latexmk
+*\.fls
+*\.log
+*\.out
+*\.synctex\.gz
+*\.toc
